@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ssh://sid@192.168.0.76:22/home/sid/dj-prj/bin/python3" name="ssh://sid@192.168.0.76:22/home/sid/dj-prj/bin/python3">
+      <webServer id="ssh://sid@192.168.0.76:22/home/sid/dj-prj/bin/python3" name="ssh://sid@192.168.0.76:22/home/sid/dj-prj/bin/python3" url="http://py.sidlab.tk">
         <fileTransfer host="192.168.0.76" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
